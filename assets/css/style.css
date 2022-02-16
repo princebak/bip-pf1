@@ -540,7 +540,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/me2.jpg") center center no-repeat;
+  background: url("../img/me.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
   box-shadow: 0px 0px 5px #444444;
@@ -574,7 +574,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: rgb(67, 133, 245);
+  background-color: rgb(52, 168, 83);;
 }
 
 /*--------------------------------------------------------------
